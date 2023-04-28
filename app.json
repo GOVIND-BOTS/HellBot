@@ -7,7 +7,7 @@
     "userbot",
     "plugin",
     "telethon",
-    "hellbot",
+    "govind",
     "modular",
     "productivity"
   ],
@@ -18,7 +18,7 @@
       "value": "ANYTHING"
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in govind. Else Fill ON.",
       "value": "ON",
       "required": false
     },
